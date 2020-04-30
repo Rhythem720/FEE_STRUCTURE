@@ -32,9 +32,13 @@ Project Scope-
  In existing system fees collection mechanism is very difficult to collect each student fees and generate report manually.
 
 Front End and Back End
+
 Front End: Java Swing
+
 Back End: MySQL
+
 How project works?
+
 To get detail explanation about project, download the document file. It includes snapshots with explanation.
 
 Some screenshots are given below:

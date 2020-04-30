@@ -47,6 +47,7 @@ Some screenshots are given below:
 
 2)ADMIN LOGIN- THIS PAGE IS OPENED AFTER CLICKING ON ADMIN LOGIN BUTTON
 (use admin name as- admin & password as-admin12345)
+
 ![](2.png)
 
 3)ADIMIN SECTION -THIS PAGE IS OPENED AFTER LOGIN OF ADMIN
@@ -54,37 +55,46 @@ Some screenshots are given below:
 ![](3.png)
 
 4)ADD ACCOUNTANAT - AFTER CLICKING ON ADD ACCOUNTANT YOU WILL GET THIS AND THUS ADD THE ACCOUNTANAT
+
 ![](4.png)
 
 
 you will get below img by adding successfull the accountant.Then press OK.
+
 ![](5.png)
 
 
 5)VIEW ACCOUNTANT-ON CLICKING VIEW YOU GET THIS 
+
 ![](6.png)
 
 Now after exit and then logout you see FEE-REPORT page again,then click on accountant login
 NOW Login through ACCOUNTANT .
 
 6)ACCOUNTNT LOGIN - LOGING THROUGH THE ACCOUNTANT NAME AND PASSWORD,and click login.
+
 ![](7.png)
 
 7)ACCONTANT SECTION-HERE YOU SEE FIVE BUTTONS .
+
 ![](8.png)
 
 8)ADD STUDENT -THE DETAILS YOU HAVE TO PUT TO ADD STUDENT .
+
 ![](9.png)
 
 9)VIEW STUDENT - YOU WILL SEE THE REGISTERED STUDENTS .
+
 ![](10.png)
 
 10)EDIT - YOU CAN ALSO MODIF THE STUDENT DETAILS 
-![](11.png)
+
+![](11edit.png)
 
 
 11)DUE FEES - THROUGH YOU CAN SEE THE STUDENTS HAVING DUE FEES 
-![](12.png)
+
+![](12duefees.png)
 
 AFTER LOGOUT YOU WILL COME TO THE MAIN "FEES _REPORT" PAGE
 .....
@@ -100,12 +110,12 @@ AFTER LOGOUT YOU WILL COME TO THE MAIN "FEES _REPORT" PAGE
 	CD Drive     		  : 	52 X
            Keyboard   		  : 	108 keys
 3.1.2 Software Specification
-	Operating System   	 : 	Windows 2000/xp /7
-	Languages  		 : 	java (Ajax, JDBC, JSP, Servlet, )
-	Front End	   	 : 	HTML, JavaScript
-           Platform		 : 	my eclipse 
-           Web Servers		 : 	Web Logic8.1/Tomcat 5.0
-	Backend                    : 	Oracle10g
+	Operating System   	 : 	Windows 2016/xp /7
+	Languages  		 : 	java (SWING ,JDBC)
+	Front End	   	 : 	SWING 
+           Platform		 : 	NETBEANS
+           Web Servers		 : 	localhost
+	Backend                    : 	MYSQL
 	Browser Program       :        Internet explorer/Mozilla Fireworks
 
 

@@ -56,11 +56,14 @@ Some screenshots are given below:
 4)ADD ACCOUNTANAT - AFTER CLICKING ON ADD ACCOUNTANT YOU WILL GET THIS AND THUS ADD THE ACCOUNTANAT
 ![](4.png)
 
+
 you will get below img by adding successfull the accountant.Then press OK.
 ![](5.png)
 
+
 5)VIEW ACCOUNTANT-ON CLICKING VIEW YOU GET THIS 
 ![](6.png)
+
 Now after exit and then logout you see FEE-REPORT page again,then click on accountant login
 NOW Login through ACCOUNTANT .
 
@@ -77,7 +80,8 @@ NOW Login through ACCOUNTANT .
 ![](10.png)
 
 10)EDIT - YOU CAN ALSO MODIF THE STUDENT DETAILS 
-![](11.png
+![](11.png)
+
 
 11)DUE FEES - THROUGH YOU CAN SEE THE STUDENTS HAVING DUE FEES 
 ![](12.png)
@@ -119,7 +123,7 @@ AFTER LOGOUT YOU WILL COME TO THE MAIN "FEES _REPORT" PAGE
 
 The systems development life cycle (SDLC), or software development process in systems engineering, information systems and software engineering, is a process of creating or altering information systems, and the models and methodologies that people use to develop these systems. In software engineering, the SDLC concept underpins many kinds of software development methodologies. These methodologies form the framework for planning and controlling the creation of an information system: the software development process.
 
-
+![](sdlc.png)
 
 
 		 
@@ -141,32 +145,32 @@ A data flow diagram (DFD) is a graphical representation of the "flow" of data th
 A DFD shows what kinds of information will be input to and output from the system, where the data will come from and go to, and where the data will be stored. It does not show information about the timing of processes, or information about whether processes will operate in sequence or in parallel (which is shown on a flowchart).the basic notation used to create a DFD’s are as follows:
 1. Dataflow:   data moves in a specific from an origin to a destination.
                       
-           
+![](arrow.png) 
 	
 2. Process:  People ,procedures or device that use or produce data. The physical components not identified.
                                            
-                                             
+![](circle.png)                                             
  3. Source:  external sorce or destination of data, which may be people programs, organizations or other entities.
 
-
+![](rec.png)
 
                       
  4 .Data source:  here data are store and referenced by a process in the system.
 
-                                                                                                    
-                                             0-LEVEL DFD
+![](data.png)                                                                                                    
+                                             
 
 For  The Admin:
 
 
-
+![](dd1.png)
  
 
 
 For the Accountant :
 
 
- 
+ ![](dd2.png)
 
 
 
@@ -177,8 +181,9 @@ For the Accountant :
 
 Level 1 DFD- Administrator
 
-                  
-  Level 1 DFD- Accountant :
+![](dd3.png)                  
+ 
+Level 1 DFD- Accountant :
   
-
+![](dd4.png)
 

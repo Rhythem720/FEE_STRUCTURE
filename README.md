@@ -133,7 +133,7 @@ AFTER LOGOUT YOU WILL COME TO THE MAIN "FEES _REPORT" PAGE
 
 The systems development life cycle (SDLC), or software development process in systems engineering, information systems and software engineering, is a process of creating or altering information systems, and the models and methodologies that people use to develop these systems. In software engineering, the SDLC concept underpins many kinds of software development methodologies. These methodologies form the framework for planning and controlling the creation of an information system: the software development process.
 
-![](sdlc.png)
+![](sdlc.jpg)
 
 
 		 
